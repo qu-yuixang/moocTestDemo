@@ -1,1 +1,1 @@
-console.log("版本1");
+console.log("版本2");
